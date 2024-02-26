@@ -1,0 +1,9 @@
+/* Global css */
+section{
+    background-image: url(./buillding.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: cover;
+    padding: 10rem o;
+
+}
